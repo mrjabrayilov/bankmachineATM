@@ -1,3 +1,3 @@
 # bankmachineATM
 
-This is an assignment for my algorithmization practice lecture.
+This code is for the University algorithmization practice lecture. 
